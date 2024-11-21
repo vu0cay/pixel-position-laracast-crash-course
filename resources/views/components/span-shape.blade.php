@@ -1,0 +1,1 @@
+<span class="bg-white w-2 h-2 inline-block self-center"></span>
